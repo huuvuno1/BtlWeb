@@ -1,0 +1,14 @@
+﻿[
+  {
+    "ID": 1,
+    "Username": "admin",
+    "Password": "admin",
+    "Fullname": "Nguyễn Hữu Vũ"
+  },
+  {
+    "ID": 2,
+    "Username": "user",
+    "Password": "user",
+    "Fullname": "Nguyễn Văn Lập"
+  }
+]
